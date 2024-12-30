@@ -1,6 +1,6 @@
 # BECE309L
-This repository contains study materials, including notes and question papers, for BECE309L - Artificial Intelligence and Machine Learning. 
-To download the notes, Click Code Button and then Click Download ZIP.
+This repository contains study materials, including notes and question papers, for BECE309L - Artificial Intelligence and Machine Learning. Please follow the below procedure to download the notes.
+![How to download the notes?](HowToDownload.gif)
 
 ## Module 1
 ## Module 2
